@@ -19,4 +19,4 @@ except IndexError as e:
 else:
     print('Acertou!')
 finally:
-    
+    print('Sempre executado')
