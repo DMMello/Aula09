@@ -18,3 +18,5 @@ except IndexError as e:
     print("Voce precisa digitar algum nome")
 else:
     print('Acertou!')
+finally:
+    
