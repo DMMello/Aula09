@@ -1,5 +1,3 @@
-
-
 try:
     n = int(input('Informe um numero :'))
 except:
